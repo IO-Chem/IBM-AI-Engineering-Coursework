@@ -1,5 +1,16 @@
+# Jupyter notebook checkpoints
+################################
+.ipynb_checkpoints
+
+
+# Data file formats
+################################
 *.csv
 *.h5
+
+# Image file formats
+################################
 *.png
+*.bmp
 *.jpg
-.ipynb_checkpoints
+*.jpeg
